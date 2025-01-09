@@ -114,6 +114,19 @@ This dashboard utilizes Power BI's forecasting features to predict sales for the
 
   ▪ To share dashboards with stakeholders.
 
+## 🚀 How to Use the Dashboard
+Clone this repository:
+
+bash
+Copy code
+## git clone https://github.com/akashhh23/Smart_Bazaar-Power-Bi  
+Open the starbucks_dashboard.pbix file in Power BI Desktop.
+
+Explore the interactive dashboard and discover insights!
+
+## 📢 Contributions
+Contributions are welcome! If you’d like to improve or extend this project, feel free to submit a pull request or open an issue.
+
 ## 💡 Connect with Me
 If you’re interested in data analytics, dashboard design, or exploring similar projects, let’s connect!
 
